@@ -1,3 +1,3 @@
 # bookbot
 
-BookBot is my first project!
+Book bot script for [bootdev](https://www.boot.dev/tracks/backend)
